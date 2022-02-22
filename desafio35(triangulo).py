@@ -1,3 +1,5 @@
+#SISTEMA PARA CALCULAR AS AREAS DE UM TRIANGULO
+
 a = int(input('digite o numero para formar o triangulo: '))
 b = int(input('digite o numero para formar o triangulo: '))
 c = int(input('digite o numero para formar o triangulo: '))
